@@ -23,7 +23,7 @@ class _FutureScreenState extends State<FutureScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Go Screen'),
+        title: const Text("Future Screen"),
       ),
       body: Center(
         child: Column(
